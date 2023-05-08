@@ -17,3 +17,5 @@ tomli==2.0.1
 typing_extensions==4.5.0
 tzdata==2023.3
 uvicorn==0.22.0
+torch
+nltk
