@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "tag": "harry-potter",
+      "patterns": [
+        "Harry Potter",
+        "Show me some Rowling's books",
+        "Show me some best of Harry Potter",
+        "Give me some books of Harry Potter",
+        "Give me some books of J. K. Rowling",
+        "I would like to go for Harry Potter"
+      ],
+      "responses": [
+        "harry-potter"
+      ]
+    },
+    {
+      "tag": "the-dark-tower",
+      "patterns": [
+        "The Dark Tower",
+        "Show me some Stephen King",
+        "Give me some books of Stephen King",
+        "Show me some best of The Dark Tower",
+        "Give me some books of The Dark Tower",
+        "I would like to go for The Dark Tower"
+      ],
+      "responses": [
+        "the-dark-tower"
+      ]
+    }
+  ]
+}
