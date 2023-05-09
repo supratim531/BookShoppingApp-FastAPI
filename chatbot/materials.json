@@ -5,6 +5,9 @@
       "patterns": [
         "Harry Potter",
         "Show me some Rowling's books",
+        "I am looking for Harry Potter",
+        "Please find Harry Potter for me",
+        "I am searching for Harry Potter",
         "Show me some best of Harry Potter",
         "Give me some books of Harry Potter",
         "Give me some books of J. K. Rowling",
@@ -19,6 +22,9 @@
       "patterns": [
         "The Dark Tower",
         "Show me some Stephen King",
+        "I am looking for The Dark Tower",
+        "Please find The Dark Tower for me",
+        "I am searching for The Dark Tower",
         "Give me some books of Stephen King",
         "Show me some best of The Dark Tower",
         "Give me some books of The Dark Tower",
@@ -26,6 +32,44 @@
       ],
       "responses": [
         "the-dark-tower"
+      ]
+    },
+    {
+      "tag": "cart-action",
+      "patterns": [
+        "Put this book",
+        "Store the book",
+        "Ok, save a book",
+        "Save it in cart",
+        "Add this book in cart",
+        "Save the book for now",
+        "Save the book for later",
+        "Save the book inside card",
+        "Save the book inside cart",
+        "Insert the book into cart",
+        "Please add this book for me",
+        "Add this book in my collection",
+        "I would like to save this for later"
+      ],
+      "responses": [
+        "cart-action"
+      ]
+    },
+    {
+      "tag": "order-action",
+      "patterns": [
+        "I want to order",
+        "Buy this book for",
+        "Ok, buy a book for me",
+        "Place an order for me",
+        "I want to buy this book",
+        "Place an order for this book",
+        "I want to place an order for",
+        "I would like to buy this book",
+        "I want you to place an order for"
+      ],
+      "responses": [
+        "order-action"
       ]
     }
   ]
